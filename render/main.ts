@@ -73,9 +73,9 @@ tabGroup.on('tab-active', (tab: Tab) => {
 })
 
 tabGroup.on('click-add-button', () => {
-  createTabOnWindow('https://www.gaoding.com/create-design')
+  createTabOnWindow('https://test-copilot.baijia.com/copilot-fe/imis-chat/custom')
 })
 
-createTabOnWindow('https://www.gaoding.com')
+createTabOnWindow('https://test-copilot.baijia.com/copilot-fe/smartboost/robot')
 
-createTabOnWindow('https://www.gaoding.com')
+createTabOnWindow('https://test-copilot.baijia.com/copilot-fe/homeWork/list')
